@@ -45,3 +45,4 @@ The following results were obtained for each technique used to train eand evalua
   ![image](https://user-images.githubusercontent.com/36859475/151735457-94d921b7-bc87-4202-8787-b9c564fa08c0.png)
 
 ## Summary
+Overall each of the models has issues with false positives. This can be seen with  the precision of high risk in all of the models is quite low, the highest being .09 with the Easy Ensemble Classifier technique. Therefore I would currently not use any of these methods.
